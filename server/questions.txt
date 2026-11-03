@@ -1,0 +1,50 @@
+# Little Impostor Game question bank.
+# One pair per line:  normal question | impostor question
+# Lines starting with # are ignored. Save this file as UTF-8.
+# A good pair makes answers of the same type, with different typical values.
+
+# Numbers
+How many hours do you sleep? | How many hours a day are you on your phone?
+How many cups of coffee do you drink a day? | How many meals do you eat a day?
+How many countries have you visited? | How many pairs of shoes do you own?
+How many books did you read last year? | How many times did you go to the cinema last year?
+How many close friends do you have? | How many cousins do you have?
+How old were you when you got your first phone? | How old were you when you first rode a bike?
+How many minutes does it take you to get ready in the morning? | How many minutes does it take you to get home from university?
+How many apps do you use every day? | How many people do you text every day?
+What time do you usually wake up on a weekend? | What time do you usually go to bed on a weekend?
+What's the most you would pay for a concert ticket? | What's the most you would pay for a pair of shoes?
+
+# Food and drink
+What's your favorite food? | What's your favorite dessert?
+What do you usually eat for breakfast? | What do you usually eat as a midnight snack?
+What's the best pizza topping? | What's the worst pizza topping?
+What do you order at a fast food place? | What do you cook when you have no time?
+What's your favorite fruit? | Which fruit do you dislike the most?
+What's your favorite drink? | What do you drink when you're sick?
+
+# Places
+Which country would you most like to visit? | Which country would you never want to visit?
+Where would you go on a honeymoon? | Where would you go to hide from everyone?
+What's the best city to live in? | What's the best city for a weekend trip?
+Where do you go to relax? | Where do you go to study?
+Where was your best vacation? | Where was your worst vacation?
+
+# People, animals and things
+Which celebrity would you like to have dinner with? | Which celebrity would you not want as a neighbor?
+Which animal would you like as a pet? | Which animal are you afraid of?
+What's the best gift you've ever received? | What's the last thing you bought online?
+What superpower would you want? | What superpower would be useless?
+What would you take to a desert island? | What would you save from a burning house?
+
+# Free time, school and work
+What's your favorite movie? | What's a movie you fell asleep during?
+What's your favorite song? | Which song do you never want to hear again?
+What's your favorite TV series? | Which TV series did you stop watching?
+What's your favorite video game? | Which game did you play as a child?
+What's your favorite school subject? | Which school subject did you hate the most?
+What's your dream job? | What job would you never do?
+What's your favorite sport to watch? | Which sport would you be worst at?
+What's your favorite holiday? | Which holiday do you find the most stressful?
+What's your favorite season? | Which season is the worst for traveling?
+What's your favorite color? | What color would you never paint your room?
